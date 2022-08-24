@@ -1,0 +1,29 @@
+State Group	ID	Name			Wwise Object Path	Notes
+	1690668539	Music_States			\Music\Music_States	
+	3092587493	Pause			\Default Work Unit\Pause	
+
+State	ID	Name	State Group			Notes
+	89505537	Gameplay	Music_States			
+	748895195	None	Music_States			
+	1560169506	Boss	Music_States			
+	2607556080	Menu	Music_States			
+	2764240573	Combat	Music_States			
+	3888786832	City	Music_States			
+	748895195	None	Pause			
+	930712164	Off	Pause			
+	1651971902	On	Pause			
+
+Audio Bus	ID	Name			Wwise Object Path	Notes
+	85412153	Ambience			\Default Work Unit\Master Audio Bus\Enviromental\Ambience	
+	1551306167	UI			\Default Work Unit\Master Audio Bus\Enviromental\UI	
+	2151963051	Items			\Default Work Unit\Master Audio Bus\Enviromental\Items	
+	2299321487	Enemy			\Default Work Unit\Master Audio Bus\Enviromental\Enemy	
+	3094055254	Main_Character			\Default Work Unit\Master Audio Bus\Enviromental\Main_Character	
+	3803692087	Master Audio Bus			\Default Work Unit\Master Audio Bus	
+	3922907557	Enviromental			\Default Work Unit\Master Audio Bus\Enviromental	
+	3991942870	Music			\Default Work Unit\Master Audio Bus\Music	
+
+Audio Devices	ID	Name	Type				Notes
+	2317455096	No_Output	No Output			
+	3859886410	System	System			
+
